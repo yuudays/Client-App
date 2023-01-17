@@ -9,7 +9,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="eb718fa4-0876-468b-a50e-397f6f0b8d63" name="Changes" comment="file change" />
+    <list default="true" id="eb718fa4-0876-468b-a50e-397f6f0b8d63" name="Changes" comment="file change">
+      <change beforePath="$PROJECT_DIR$/Server/src/eltech/server/MovieServiceImplementation.java" beforeDir="false" afterPath="$PROJECT_DIR$/Server/src/eltech/server/MovieServiceImplementation.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -266,6 +268,7 @@
       <workItem from="1673986416995" duration="4217000" />
       <workItem from="1673994079825" duration="226000" />
       <workItem from="1673994528795" duration="43000" />
+      <workItem from="1673995330986" duration="30000" />
     </task>
     <task id="LOCAL-00001" summary="file change">
       <created>1673988069342</created>

@@ -14,10 +14,10 @@ public class MovieServiceImplementation implements MovieService {
 
 
     private static String login="postgres";
-    private static String password="1234";
+    private static String password="postgres";
 
     private static String url= "jdbc:postgresql://localhost/movies";
-    //создание базы данных
+
 //    public static void main(String[] args) {
 //        String sql = "CREATE TABLE movies ( id varchar(60) NOT NULL, name varchar(30) NOT NULL," + " director varchar(40) NOT NULL , description varchar(500) NOT NULL , PRIMARY KEY (id));";
 //        Connection conn = null;
