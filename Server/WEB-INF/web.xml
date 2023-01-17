@@ -1,0 +1,19 @@
+<web-app>
+    <servlet>
+        <servlet-name>movie</servlet-name>
+        <servlet-class>com.caucho.hessian.server.HessianServlet</servlet-class>
+        <init-param>
+            <param-name>home-class</param-name>
+            <param-value>eltech.server.MovieServiceImplementation</param-value>
+        </init-param>
+        <init-param>
+            <param-name>home-api</param-name>
+            <param-value>eltech.api.services.MovieService</param-value>
+        </init-param>
+    </servlet>
+
+    <servlet-mapping>
+        <servlet-name>movie</servlet-name>
+        <url-pattern>/movie</url-pattern>
+    </servlet-mapping>
+</web-app>

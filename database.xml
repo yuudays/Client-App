@@ -1,0 +1,7 @@
+<DatabaseConfig>
+  <port>5432</port>
+  <host>127.0.0.1</host>
+  <login>postgres</login>
+  <password>postgres</password>
+  <base>movies</base>
+</DatabaseConfig>
